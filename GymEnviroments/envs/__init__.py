@@ -1,1 +1,1 @@
-from GymEnviroments.envs.grid_world import CameraEnv
+from GymEnviroments.envs.v1_camera_env import CameraEnv
